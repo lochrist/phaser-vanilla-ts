@@ -1,7 +1,7 @@
 # phaser-vanilla-ts
 Simple template for a phaser game using typescript and requirejs.
 
-## Important command:
+## Important commands:
 - Ctrl + Shift + B: build and start watcher
 - Command Palette: start express
 
