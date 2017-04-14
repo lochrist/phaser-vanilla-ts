@@ -4,7 +4,7 @@ export class Game extends Phaser.State {
     }
 
     create() {
-        let text = this.add.text(this.game.width * 0.5, this.game.height * 0.5, 'This is a game', {
+        let text = this.add.text(this.game.width * 0.5, this.game.height * 0.5, 'This MY game', {
             font: '42px Arial', fill: '#ffffff', align: 'center'
         });
         text.anchor.set(0.5);

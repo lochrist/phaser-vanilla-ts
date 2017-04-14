@@ -1,8 +1,4 @@
 {
     "files.exclude": {
-        "**/*.js": {
-            "when": "$(basename).ts"
-        },
-        "**/*.map": true
     }
 }
