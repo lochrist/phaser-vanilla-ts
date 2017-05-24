@@ -4782,7 +4782,6 @@ declare module Phaser {
     }
 
     class State {
-
         add: Phaser.GameObjectFactory;
         cache: Phaser.Cache;
         camera: Phaser.Camera;

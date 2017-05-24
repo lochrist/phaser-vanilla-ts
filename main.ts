@@ -1,4 +1,5 @@
-import {Boot} from './states/boot';
+import * as _ from 'lodash';
+import { Boot } from './states/boot';
 import {Game} from './states/game';
 import {Menu} from './states/menu';
 import {Preloader} from './states/preloader';

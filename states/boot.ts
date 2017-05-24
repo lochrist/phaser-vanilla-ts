@@ -1,3 +1,5 @@
+// const Phaser = require('./lib/phaser');
+
 export class Boot extends Phaser.State {
     constructor() {
         super();
